@@ -5,5 +5,6 @@
 </head>
 <body>
 	<p>lin2</p>
+	<p>insert master</p>
 </body>
 </html>
