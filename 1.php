@@ -7,11 +7,12 @@
 <<<<<<< HEAD
 	<p>lin2</p>
 	<p>insert master</p>
-=======
+
 	<p>lin2</p><p>lin2</p><p>lin2</p>
 	<p>lin3</p>
 	<p>im lin4</p>
 	
+	<p> lin 5 </p>	
 >>>>>>> lin4-4
 </body>
 </html>
